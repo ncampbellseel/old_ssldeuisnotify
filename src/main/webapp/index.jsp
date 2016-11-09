@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>DEU information sharing notification application</h2>
 </body>
 </html>
